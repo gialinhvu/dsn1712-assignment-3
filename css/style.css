@@ -78,7 +78,7 @@ img {
 }
 
 #services h2 {
-  max-width: auto;
+  width: auto;
   display: flex;
   justify-content: center;
   text-align: center;
